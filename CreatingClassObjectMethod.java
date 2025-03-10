@@ -1,4 +1,4 @@
-package com.jala.basics; // This is a package
+package basics; // This is a package
 
 // created a class using "class" keyword
 public class CreatingClassObjectMethod {
